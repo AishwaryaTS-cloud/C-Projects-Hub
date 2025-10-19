@@ -28,3 +28,6 @@ The program then executes the corresponding operation using a **switch-case** co
 ## 🎥 Output Demo
 ### For Addition
 ![Simple Calculator Output](https://s4.ezgif.com/tmp/ezgif-428e59cde1074c.gif)
+
+### FOr Division
+![Simple Calculator Output](https://s4.ezgif.com/tmp/ezgif-4e62ca34681a44.gif)
