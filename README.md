@@ -2,7 +2,7 @@
 
 ![C Project Demo](blob:https://www-towrco-in.filesusr.com/2c4a7b01-493c-40f2-ad6e-0793236a61ec )
 *Example: Running a C project in action*
-![Image](blob:https://www-towrco-in.filesusr.com/2c4a7b01-493c-40f2-ad6e-0793236a61ec)
+
 
 Welcome to **C-Projects-Hub**! This repository contains **beginner, intermediate, and advanced C programming projects**, helping you practice and master C programming from basics to complex applications. Each project folder contains the source code and instructions to run.
 
