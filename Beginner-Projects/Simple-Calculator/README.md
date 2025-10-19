@@ -32,3 +32,4 @@ The program then executes the corresponding operation using a **switch-case** co
 ### For Division
 ![Simple Calculator Output](https://s4.ezgif.com/tmp/ezgif-42e9e520bee582.gif)
 ![Simple Calculator Output](https://s4.ezgif.com/tmp/ezgif-4e62ca34681a44.gif)
+![alt text](<Recording 2025-10-19 234833.gif>)
