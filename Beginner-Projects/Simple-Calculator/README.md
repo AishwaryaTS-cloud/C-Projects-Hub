@@ -27,4 +27,4 @@ The program then executes the corresponding operation using a **switch-case** co
 ---
 ## 🎥 Output Demo
 ### For Addition
-![Simple Calculator Output](https://user-images.githubusercontent.com/98851253/154177081-2c53df2d-777b-4deb-8e38-5742ecd7282f.gif)
+![Simple Calculator Output](https://s4.ezgif.com/tmp/ezgif-428e59cde1074c.gif)
