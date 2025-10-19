@@ -59,8 +59,4 @@ Require file handling, real-time logic, 2D arrays, keyboard input events, or com
 
 ---
 
-**Note:** Replace `your-username` in the links with your GitHub username.
-
----
-
 ✨ Start exploring, running, and learning C programming step by step with these projects!
