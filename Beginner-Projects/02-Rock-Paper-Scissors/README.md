@@ -36,4 +36,4 @@ A simple command-line **Rock-Paper-Scissors** game implemented in C. Play agains
 
 ## 🎬 Demo Output
 
-![Sample Output](https://s5.ezgif.com/tmp/ezgif-5dd7473d6ba07b.gif)
+![Sample Output](https://s7.ezgif.com/tmp/ezgif-723720a9da2da8.gif)
