@@ -17,7 +17,7 @@ Basic projects requiring knowledge of variables, loops, conditional statements, 
 | 🧮 Simple Calculator | Addition, subtraction, multiplication, division | [Folder](https://github.com/AishwaryaTS-cloud/C-Projects-Hub/tree/main/Beginner-Projects/01-Simple-Calculator) |
 | ✊✋✌️ Rock Paper Scissors | Randomization and conditional logic | [Folder](https://github.com/AishwaryaTS-cloud/C-Projects-Hub/tree/main/Beginner-Projects/02-Rock-Paper-Scissors) |
 | 🪤 Hangman Game | Strings, loops, if-else | [Folder](https://github.com/your-username/C-Projects-Hub/tree/main/Beginner/Hangman-Game) |
-| ❌⭕ Tic-Tac-Toe Game | 2D array or number mapping, loops | [Folder](https://github.com/your-username/C-Projects-Hub/tree/main/Beginner/Tic-Tac-Toe) |
+| ❌⭕ Tic-Tac-Toe Game | 2D array or number mapping, loops | [Folder](https://github.com/AishwaryaTS-cloud/C-Projects-Hub/tree/main/Beginner-Projects/04-Tic-Tac-Toe-Game) |
 | 📅 Calendar | Arithmetic, strings, date calculation | [Folder](https://github.com/your-username/C-Projects-Hub/tree/main/Beginner/Calendar) |
 | 🔢 Number System Conversion | Decimal, binary, octal, hexadecimal conversions | [Folder](https://github.com/your-username/C-Projects-Hub/tree/main/Beginner/Number-System-Conversion) |
 
