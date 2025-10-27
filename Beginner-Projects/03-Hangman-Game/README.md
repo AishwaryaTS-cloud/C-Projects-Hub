@@ -37,10 +37,3 @@ The program includes:
 
 ---
 
-## 🎥 Output Demo
-
-### ✅ Correct Guess Example
-![Hangman Game Output - Correct Guess](https://s6.ezgif.com/tmp/ezgif-6c7675d8b02918.gif)
-
-### ❌ Wrong Guess Example
-![Hangman Game Output - Wrong Guess](<02final (1) gif.gif>)

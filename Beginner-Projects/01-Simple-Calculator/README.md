@@ -1,34 +1,92 @@
 # 🧮 Simple Calculator (C Project)
 
-*A simple C program to perform basic arithmetic operations using switch-case statements.*
+*A beginner-friendly calculator built in C that performs basic arithmetic operations using a `switch-case` structure.*
 
 ---
 
 ## 📘 Description
-This project is a **Simple Calculator** written in C.  
-It performs the four basic arithmetic operations:
-- ➕ Addition  
-- ➖ Subtraction  
-- ✖️ Multiplication  
-- ➗ Division  
 
-The user inputs an operator and two numbers.  
-The program then executes the corresponding operation using a **switch-case** construct.
+This project is a **Simple Calculator** implemented in **C language**.
+
+It allows the user to perform **basic arithmetic operations** — addition, subtraction, multiplication, and division — by entering an operator and two operands.
+
+The program uses a **switch-case control structure** to select the appropriate operation based on user input and handles **division by zero** gracefully.
 
 ---
 
 ## 🧠 Concepts Used
-- `switch-case` statement  
-- Arithmetic operators  
-- Conditional checks (for division by zero)  
-- Input/Output functions  
-- Error handling for invalid operator
+
+- **Switch-case statements** for operation selection
+- **Conditional checks** (`if` statement for division by zero)
+- **Basic I/O** using `printf()` and `scanf()`
+- **Floating-point arithmetic** using `double` data type
+- **Input buffer handling** with `" %c"` for clean character input
 
 ---
-## 🎥 Output Demo
-### For Addition
-![Simple Calculator Output](https://s4.ezgif.com/tmp/ezgif-428e59cde1074c.gif)
 
-### For Division
-![Simple Calculator Output](https://s4.ezgif.com/tmp/ezgif-42e9e520bee582.gif)
-![Simple Calculator Output](https://s4.ezgif.com/tmp/ezgif-4e62ca34681a44.gif)
+## 🗂️ Features
+
+- ➕ Performs **Addition**, **Subtraction**, **Multiplication**, and **Division**
+- ⚙️ Handles **invalid operator input** with error messages
+- 🚫 Prevents **division by zero** with safety checks
+- 💡 Clean, modular logic using `switch-case`
+- 🖥️ Simple and interactive console interface
+
+---
+
+## 🧩 How It Works
+
+1. The user is prompted to **enter an operator** (`+`, , , `/`).
+2. The user then enters **two numeric operands**.
+3. The program uses a **switch-case** to perform the chosen operation.
+4. The result is displayed up to **two decimal places**.
+5. Invalid operators or division by zero are handled with appropriate messages.
+
+---
+
+## 💻 Example Run
+
+```c
+Enter an operator (+, -, *, /): *
+Enter two operands: 5 6
+Result: 30.00
+
+```
+
+```c
+Enter an operator (+, -, *, /): /
+Enter two operands: 12 0
+Error! Division by zero is not allowed.
+
+```
+
+```c
+Enter an operator (+, -, *, /): x
+Enter two operands: 10 2
+Error! Incorrect Operator Value.
+
+```
+
+---
+
+## ⚙️ Tech Stack
+
+| Component | Description |
+| --- | --- |
+| **Language** | C |
+| **Concepts Used** | Switch-case, Conditionals, Floating-point arithmetic |
+| **Headers** | `<stdio.h>` |
+| **Compiler** | GCC / Clang |
+
+---
+
+## 🏆 Learning Outcomes
+
+By building this project, you will learn:
+
+- How to use **switch-case** effectively in C
+- How to **take user input** and **process arithmetic operations**
+- How to **handle runtime errors** like invalid input and division by zero
+- How to **format output** using `printf()` and `scanf()`
+
+---
