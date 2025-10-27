@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator (C Project)
+# 🧮 Simple Calculator 
 
 *A beginner-friendly calculator built in C that performs basic arithmetic operations using a `switch-case` structure.*
 
