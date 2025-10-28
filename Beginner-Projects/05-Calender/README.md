@@ -1,4 +1,4 @@
-# 📅 Yearly Calendar Program (C Project)
+# 📅 Yearly Calendar Program 
 
 *A C program that prints the full calendar of any given year using date calculation logic and proper formatting.*
 
@@ -48,9 +48,9 @@ The program uses a well-known **day-of-week calculation algorithm** (similar to 
 
 ## 💻 Example Run
 
-Enter year (e.g. 2025): 2025
-
 ```bash
+
+Enter year (e.g. 2025): 2025
 
 -------------- January -------------
  Sun Mon Tue Wed Thu Fri Sat
